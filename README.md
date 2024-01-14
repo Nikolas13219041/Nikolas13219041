@@ -20,4 +20,4 @@ I am an enthusiastic Electrical Engineering student at the Bandung Institute of 
 This is my personal Github profile where I will include projects that I'm currently working on as an interest or self-development.
 
 📫 How to reach me: If you're seeking a highly motivated and adaptable team member, let's connect and explore potential opportunities for collaboration. Do not hesitate to reach out to me via LinkedIn or email to discuss how I can contribute to your organization's goals and create a positive impact together.
-Feel free to visit my linkedin profile : https://www.linkedin.com/in/andhikareyhan/ or email me at andhikareyhan@gmail.com
+Feel free to visit my linkedin profile : https://www.linkedin.com/in/nikolas-notohardjo/ or email me at nikolasnotohardjo@gmail.com
