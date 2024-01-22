@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an enthusiastic Electrical Engineering student at the Bandung Institute of Technology, expected to graduate in 2023. With a strong interest in the application of cutting-edge technologies for complex problem-solving, particularly Machine Learning, I am actively exploring career opportunities in Consulting and Technology.
+I am an enthusiastic Electrical Engineering student at the Bandung Institute of Technology, expected to graduate in 2023. With a strong interest in the application of cutting-edge technologies for complex problem-solving, particularly Machine Learning, I am actively exploring career opportunities in Engineering and Technology.
 
 This is my personal Github profile where I will include projects that I'm currently working on as an interest or self-development.
 
